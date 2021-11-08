@@ -1,0 +1,18 @@
+{
+	"singleQuote": true,
+	"printWidth": 150,
+	"trailingComma": "es5",
+	"tabWidth": 2,
+	"semi": true,
+	"useTabs": true,
+	"bracketSameLine": true,
+	"arrowParens": "always",
+	"embeddedLanguageFormatting": "auto",
+	"editor.defaultFormatter": "dbaeumer.vscode-eslint",
+	"editor.formatOnSave": true,
+	"eslint.enable": true,
+	"eslint.alwaysShowStatus": true,
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": true
+	}
+}
